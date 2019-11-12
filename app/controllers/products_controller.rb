@@ -2,6 +2,8 @@ class ProductsController < ApplicationController
 
   def index
     @products = Product.all.order(created_at: :desc)
+    puts "HELLO"
+    puts @products[0].inspect
   end
 
   def show
