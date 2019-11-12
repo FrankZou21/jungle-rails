@@ -1,8 +1,9 @@
 <section class="cart-show">
 
-  <header class="page-header">
-    <h1>My Cart</h1>
-  </header>
+<% if enhanced_cart[0] %>
+<header class="page-header">
+<h1>My Cart</h1>
+</header>
 
   <div class="panel panel-default items">
     <table class="table table-bordered">
@@ -49,4 +50,10 @@
     </div>
   </div>
 
+  <% else %>
+  <div class="alert alert-info" role="alert">
+  There is nothing in your cart. Click <a href="/" class="alert-link">HERE</a> to go to main page.
+</div>
+  <% end %> 
 </section>
+
