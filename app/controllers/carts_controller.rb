@@ -1,12 +1,6 @@
 class CartsController < ApplicationController
 
   def show
-    # puts "START"
-    # puts enhanced_cart.inspect
-    # if enhanced_cart[0]
-    # else 
-
-    # end
   end
 
   def add_item
