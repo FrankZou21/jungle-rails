@@ -27,4 +27,9 @@ More information in their docs: <https://stripe.com/docs/testing#cards>
 
 ## Screenshots
 
+!["Screenshot of Main page"](https://github.com/FrankZou21/jungle-rails/blob/readme/docs/Main_Page.png?raw=true)
+!["Screenshot of Carts page"](https://github.com/FrankZou21/jungle-rails/blob/readme/docs/Cart.png?raw=true)
+!["Screenshot of Payments page"](https://github.com/FrankZou21/jungle-rails/blob/readme/docs/Payment.png?raw=true)
+!["Screenshot of Payments Verification page"](https://github.com/FrankZou21/jungle-rails/blob/readme/docs/Payment_Verification.png?raw=true)
+!["Screenshot of Admin products page"](https://github.com/FrankZou21/jungle-rails/blob/readme/docs/Admin_Product_List.png?raw=true)
 
