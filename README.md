@@ -1,7 +1,6 @@
 # Jungle
 
-A mini e-commerce application built with Rails 4.2 for purposes of teaching Rails by example.
-
+A mini e-commerce application built with Rails 4.2. Users can create accounts, add items to cart and purchase items using credit cards.
 
 ## Setup
 
@@ -25,3 +24,12 @@ More information in their docs: <https://stripe.com/docs/testing#cards>
 * Rails 4.2 [Rails Guide](http://guides.rubyonrails.org/v4.2/)
 * PostgreSQL 9.x
 * Stripe
+
+## Screenshots
+
+!["Screenshot of Main page"](https://github.com/FrankZou21/jungle-rails/blob/readme/docs/Main_Page.png?raw=true)
+!["Screenshot of Carts page"](https://github.com/FrankZou21/jungle-rails/blob/readme/docs/Cart.png?raw=true)
+!["Screenshot of Payments page"](https://github.com/FrankZou21/jungle-rails/blob/readme/docs/Payment.png?raw=true)
+!["Screenshot of Payments Verification page"](https://github.com/FrankZou21/jungle-rails/blob/readme/docs/Payment_Verification.png?raw=true)
+!["Screenshot of Admin products page"](https://github.com/FrankZou21/jungle-rails/blob/readme/docs/Admin_Product_List.png?raw=true)
+
